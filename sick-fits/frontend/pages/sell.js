@@ -2,11 +2,11 @@ import Link from 'next/link';
 
 import React from 'react';
 
-const Home = () => (
+const Sell = () => (
   <div>
-    <p>Hey!</p>
-    
+    <p>Sell!</p>
+   
   </div>
 );
 
-export default Home;
+export default Sell;
